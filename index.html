@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>bigsbw.sbs</title>
+  <meta http-equiv="refresh" content="0; url=/ru/">
+</head>
+<body>
+<script>
+  (function() {
+    var langs = ["ru", "en", "de", "pl", "uz", "az", "ky"];
+    var host = (window.location.hostname || "").toLowerCase();
+    var sub = host.split(".")[0];
+    if (langs.indexOf(sub) !== -1) {
+      window.location.href = "/" + sub + "/";
+    } else {
+      window.location.href = "/ru/";
+    }
+  })();
+</script>
+</body>
+</html>

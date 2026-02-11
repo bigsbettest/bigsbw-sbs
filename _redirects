@@ -1,0 +1,8 @@
+https://ru.bigsbw.sbs/* /ru/:splat 200
+https://en.bigsbw.sbs/* /en/:splat 200
+https://de.bigsbw.sbs/* /de/:splat 200
+https://pl.bigsbw.sbs/* /pl/:splat 200
+https://uz.bigsbw.sbs/* /uz/:splat 200
+https://az.bigsbw.sbs/* /az/:splat 200
+https://ky.bigsbw.sbs/* /ky/:splat 200
+https://bigsbw.sbs/* /ru/:splat 301

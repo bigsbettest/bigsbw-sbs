@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://en.bigsbw.sbs/sitemap.xml
